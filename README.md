@@ -1,0 +1,5 @@
+sysCallTab[0x0f0001] = "__ARM_NR_breakpoint"
+sysCallTab[0x0f0002] = "__ARM_NR_cacheflush"
+sysCallTab[0x0f0003] = "__ARM_NR_usr26"
+sysCallTab[0x0f0004] = "__ARM_NR_usr32"
+sysCallTab[0x0f0005] = "__ARM_NR_set_tls"
